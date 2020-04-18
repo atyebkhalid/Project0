@@ -1,0 +1,44 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: lightgrey;
+}
+.container{
+    width: 100%;
+    margin: 10px;
+    padding: 10px;
+    margin-top: 80px;
+    box-shadow:10px 5px 10px 5px grey;
+}
+nav ul li a{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    color: gray;
+}
+nav ul li a:active{
+    background-color: white;
+    color: black;
+}
+h1,h2,h3{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    color: gray;
+}
+.data{
+    margin: 50% 0px 0px 0px;
+}
+.data input,textarea{
+    align-content: center;
+    margin: 10px 0px;
+    padding: 10px;
+}
+.data textarea{
+    align-content: center;
+    margin: 10px 0px;
+    padding: 10px;
+}
+
